@@ -83,9 +83,9 @@ class KKKC(nn.Module):
 
 运行结果：
 
-<img src="https://gitee.com/kkkcstx/kkkcs/raw/master/img/20220418174029.png" style="zoom: 33%;" />
+<img src="https://gitee.com/kkkcstx/kkkcs/raw/master/img/20220418174029.png" style="zoom: 20%;" />
 
-<img src="https://gitee.com/kkkcstx/kkkcs/raw/master/img/20220418173908.png" style="zoom:33%;" />
+<img src="https://gitee.com/kkkcstx/kkkcs/raw/master/img/20220418173908.png" style="zoom:20%;" />
 
 ## 6、Later
 
