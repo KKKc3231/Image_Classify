@@ -22,7 +22,7 @@
 
 <img src="https://gitee.com/kkkcstx/kkkcs/raw/master/img/model.jpg" style="zoom: 67%;" />
 
-自己搭建的网络架构如上图所示，4个block，一个block分为Conv、Maxpool、Dropout，最后得到的特征图的大小为4x4，通道个数为128，最后展平，两个全连接层-->到二分类。
+自己搭建的CNN网络架构如上图所示，4个block，一个block分为Conv、Maxpool、Dropout，最后得到的特征图的大小为4x4，通道个数为128，最后展平，两个全连接层-->到二分类。
 
 ## 4、模型框架
 
